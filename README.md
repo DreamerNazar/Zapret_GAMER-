@@ -1,3 +1,18 @@
+## DONATION
+https://www.donationalerts.com/r/dreamernazar
+
+> **EN:**
+Thank you for your donations!
+Your support helps Zapret_Gamer- grow — we fix bugs, add new features
+
+Every contribution helps the addon move forward. Thank you for being with us!
+
+> **RU:**
+Спасибо за ваши донаты!
+Благодаря вашей поддержке Zapret_Gamer- становится лучше — мы исправляем ошибки, добавляем новые предложения
+
+Каждый вклад помогает развитию аддона. Спасибо, что вы с нами!
+
 # zapret-discord-youtube 1.10.1 (custom build)
 
 English | [Русский](#русская-версия)
